@@ -4,10 +4,6 @@ Submitted by: **Celina Juarez**
 
 Time spent: **4** hours spent in total
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
-
----
-
 ## Flixster Part 1
 
 ### User Stories
@@ -30,4 +26,4 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 ### Notes
-Describe any challenges encountered while building the app.
+Getting familiar with using an API to get our data took a while to get used to.
