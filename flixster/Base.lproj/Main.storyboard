@@ -55,6 +55,7 @@
                                             <outlet property="posterView" destination="3JK-zg-lkV" id="yOq-hO-Z7I"/>
                                             <outlet property="synopsisLabel" destination="iwR-QP-MFi" id="BRY-Qw-9tA"/>
                                             <outlet property="titleLabel" destination="vnx-sD-AYe" id="1sz-Hz-JGJ"/>
+                                            <segue destination="vsV-nf-w0n" kind="show" id="5jG-ps-bn3"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
@@ -72,10 +73,10 @@
             </objects>
             <point key="canvasLocation" x="1000.8" y="27.436281859070466"/>
         </scene>
-        <!--View Controller-->
+        <!--Movie Details View Controller-->
         <scene sceneID="gIX-xh-Sxn">
             <objects>
-                <viewController id="vsV-nf-w0n" sceneMemberID="viewController"/>
+                <viewController id="vsV-nf-w0n" customClass="MovieDetailsViewController" customModule="flixster" customModuleProvider="target" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="NoM-gQ-lgt" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1852" y="26.53673163418291"/>
